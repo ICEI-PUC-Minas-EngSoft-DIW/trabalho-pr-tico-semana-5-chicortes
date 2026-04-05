@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+
+.nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  transition: color 0.2s;
+  cursor: pointer;
+}
+
+.nav-search {
+  background: #1a1a1a;
+  border: 1px solid #2a2a2a;
+  border-radius: 20px;
+  padding: 6px 14px;
+  color: #f0ede6;
+  font-size: 13px;
+  outline: none;
+  width: 180px;
+  transition: border-color 0.2s;
+}
+
+.nav-search:focus {
+  border-color: #ffffff;
+}
+
+body {
+    background-color: rgb(218, 213, 203);
+}
+
+
+.header {
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.navegacao ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    background: #222;
+}
+
+.navegacao ul li {
+    margin: 10px;
+    padding-top: 10px;
+}
+
+.navegacao ul li a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+.main {
+    padding: 20px;
+}
+
+.destaque {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.destaque img {
+    width: 75%;
+}
+
+.recomendacoes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.recomendacoes .artigo {
+    background: #f4f4f4;
+    padding: 15px;
+    width: 250px;
+    text-align: center;
+    position: relative;
+}
+
+.artigo img {
+    width: 100%;
+}
+
+.footer {
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}

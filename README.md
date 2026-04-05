@@ -8,18 +8,18 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Francisco de Castro Côrtes Netto
+- Matricula: 909409
+- Proposta de projeto escolhida: Um site de recomendação de musicas, e para popularização de novos artistas
+- Breve descrição sobre seu projeto: Meu site visa recomendar novas musicas feitas por artistas pouco conhecidos para poderem alavancar suas carreiras e mostrar seus talentos ao mundo
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![print do projeto](img/printdesktop.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![print do projeto](img/printiphone.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
